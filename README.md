@@ -56,7 +56,7 @@ Implement the following preprocessing steps in order:
 2. **Neural Network Architecture (25 points)**
    - Input Layer: Tokenized and padded sequences
    - Embedding Layer: Using pre-trained GloVe embeddings
-   - At least one LSTM/BiLSTM layer
+   - At least one LSTM/GRU layer
    - Appropriate dense layers
    - Output Layer: Suitable for sentiment classification
 
