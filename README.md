@@ -7,7 +7,7 @@ In this assignment, you will implement a sentiment analysis model using deep lea
 ### Dataset
 - English text dataset with sentiment labels
 - Format: CSV/DataFrame with 'reviews' column and sentiment labels
-- Students should split the data into training (80%), validation (10%), and test (10%) sets
+- Students should split the data into training (80%) and test (20%) sets
 
 ### Part 1: Text Preprocessing (40 points)
 Implement the following preprocessing steps in order:
